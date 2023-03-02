@@ -24,7 +24,16 @@ class CardList extends LitElement {
   render() {
     return html`
       <fawaz-nice-card></fawaz-nice-card>
-      <flight-card>ç</flight-card>
+      <fawaz-nice-card></fawaz-nice-card>
+      <fawaz-nice-card></fawaz-nice-card>
+      <fawaz-nice-card></fawaz-nice-card>
+      <fawaz-nice-card></fawaz-nice-card>
+      
+      <flight-card></flight-card>
+      <flight-card></flight-card>
+      <flight-card></flight-card>
+      <flight-card></flight-card>
+      <flight-card></flight-card>
 
 
     `;
